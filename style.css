@@ -2,25 +2,24 @@
   font-size: 0px;
 }
 
-.blue {
-  background-color: blue;
+.blue,
+.red,
+.green {
   width: 200px;
   height: 200px;
   display: inline-block;
+}
+
+.blue {
+  background-color: blue;
 }
 
 .red {
   background-color: red;
-  width: 200px;
-  height: 200px;
-  display: inline-block;
 }
 
 .green {
   background-color: green;
-  width: 200px;
-  height: 200px;
-  display: inline-block;
 }
 
 .two {
