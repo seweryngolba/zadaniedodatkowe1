@@ -1,0 +1,30 @@
+.small {
+  font-size: 0px;
+}
+
+.blue {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+.red {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+.green {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+.two {
+  width: 600px;
+  height: 200px;
+  background-color: yellow;
+}
